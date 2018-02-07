@@ -13,7 +13,14 @@
   },
   "resources" : [ ],
   "source-url" : "git://github.com/samgwise/p6-Math-Curves.git",
-  "tags" : [ ],
+  "tags" : [
+    "Math",
+    "Geometry",
+    "Trajectory",
+    "Simple",
+    "Plot",
+    "Length"
+  ],
   "test-depends" : [ ],
   "version" : "0.0.1"
 }
